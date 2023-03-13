@@ -1,5 +1,10 @@
 # Finincial-Analysis
 
+The order of completion is below:
+1) Revenue Analysis 
+2) Expenses Analysis 
+3) EBIT Analysis 
+
 Southern Water Corp sells two types of water product; Hard and Soft Water which is retailed to Residential, Public and Private Customers. 
 These sales (Revenues) are stored in centres known as PROFIT CENTRES. 
 
