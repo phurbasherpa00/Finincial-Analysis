@@ -1,4 +1,4 @@
-# Finincial-Analysis
+# Financial-Analysis
 
 The order of completion is below:
 1) Revenue Analysis 
